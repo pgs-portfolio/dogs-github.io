@@ -1,0 +1,27 @@
+
+
+body {
+	background: grey;
+	text-align: center;
+	font-family: 'Yusei Magic', sans-serif;
+}
+
+.float-container {
+	display: flex;
+	background: #BFCFE9;
+} 
+
+.float-child {
+	width:33%;
+    border: 10px solid grey;
+} 
+
+h1 { 
+	font-size: 30px;
+	text-align: center;
+ }
+ 
+ a {
+ 	color: blue;
+ 	text-decoration: none
+ }
